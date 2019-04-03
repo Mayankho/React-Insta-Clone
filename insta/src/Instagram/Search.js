@@ -8,7 +8,12 @@ class Search extends React.Component{
         }
         render() {
             return(
-                <div>
+                <div className = "search-container">
+
+                <nav>
+                <p>Yoo</p>
+
+                </nav>
                     
                 </div>
             )
